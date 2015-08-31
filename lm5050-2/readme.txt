@@ -5,7 +5,7 @@
 *************  Important Instructions Follow  ************
 **********************************************************
  
-All files exported to: C:\UltraLibrarian\Library\Exported\Altium\2015-08-31_12-33-45\2015-08-31_12-33-45
+All files exported to: C:\UltraLibrarian\Library\Exported\Altium\2015-08-31_14-28-52\2015-08-31_14-28-52
  
  
 To import your new library part into Altium follow these steps:
@@ -42,8 +42,7 @@ For a video tutorial, please visit:
 http://youtu.be/pih50yx9HYU
  
  
-Symbol "CSD16403Q5A_DQJ_8" renamed to "CSD16403Q5A_DQJ_"
-Component "CSD16403Q5A_DQJ_8" renamed to "CSD16403Q5A_DQJ_"
+Component "LM5050-2_DDC_6" renamed to "LM5050-2_DDC_6"
 
 
 Ultra Librarian Lite 6.4.103 Process Report
@@ -51,11 +50,11 @@ Ultra Librarian Lite 6.4.103 Process Report
 
 
 TextStyle count:  24
-Padstack count:   1
-Pattern count:    1
+Padstack count:   3
+Pattern count:    3
 Symbol count:     1
 Component count:  1
 
 Export
 
-Warning: Symbol "CSD16403Q5A_DQJ_" attribute "DESCRIPTION" references missing text style ""
+Warning: Symbol "LM5050-2_DDC_6" attribute "DESCRIPTION" references missing text style ""
