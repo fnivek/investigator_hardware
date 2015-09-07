@@ -5,7 +5,7 @@
 *************  Important Instructions Follow  ************
 **********************************************************
  
-All files exported to: C:\Ultra Librarian\Library\Exported\Altium\2015-09-04_13-08-38\2015-09-04_13-08-38
+All files exported to: C:\Ultra Librarian\Library\Exported\Altium\2015-09-07_15-38-44\2015-09-07_15-38-44
  
  
 To import your new library part into Altium follow these steps:
