@@ -1,0 +1,1094 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Kevin French\Documents\School Work\Design2\repos\investigator_hardware\InvestiGator.PcbDoc
+Date     : 9/14/2015
+Time     : 11:35:05 AM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Width Constraint (Min=40mil) (Max=40mil) (Preferred=40mil) (InNet('BAT_oringC'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=40mil) (Max=40mil) (Preferred=40mil) (InNet('BAT_oringB'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=40mil) (Max=40mil) (Preferred=40mil) (InNet('BAT_oringD'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=40mil) (Max=40mil) (Preferred=40mil) (InNet('BAT_oringA'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=40mil) (Max=40mil) (Preferred=40mil) (InNetClass('VORED[1..4]'))
+Rule Violations :0
+
+Processing Rule : Room TPS5 (Bounding Region = (4120mil, 2254.567mil, 5410mil, 2924.567mil) (InComponentClass('TPS5'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Track (3297.126mil,2355.787mil)(3312.874mil,2355.787mil)  Top Overlay and 
+                     Pad Cy1_TPS6-1(3275.472mil,2369.567mil)  Top Layer
+   Violation between Track (3297.126mil,2383.347mil)(3312.874mil,2383.347mil)  Top Overlay and 
+                     Pad Cy1_TPS6-1(3275.472mil,2369.567mil)  Top Layer
+   Violation between Track (3297.126mil,2355.787mil)(3312.874mil,2355.787mil)  Top Overlay and 
+                     Pad Cy1_TPS6-2(3334.528mil,2369.567mil)  Top Layer
+   Violation between Track (3297.126mil,2383.347mil)(3312.874mil,2383.347mil)  Top Overlay and 
+                     Pad Cy1_TPS6-2(3334.528mil,2369.567mil)  Top Layer
+   Violation between Track (4657.126mil,2346.221mil)(4672.874mil,2346.221mil)  Top Overlay and 
+                     Pad Cy1_TPS5-1(4635.472mil,2360mil)  Top Layer
+   Violation between Track (4657.126mil,2373.78mil)(4672.874mil,2373.78mil)  Top Overlay and 
+                     Pad Cy1_TPS5-1(4635.472mil,2360mil)  Top Layer
+   Violation between Track (4657.126mil,2346.221mil)(4672.874mil,2346.221mil)  Top Overlay and 
+                     Pad Cy1_TPS5-2(4694.527mil,2360mil)  Top Layer
+   Violation between Track (4657.126mil,2373.78mil)(4672.874mil,2373.78mil)  Top Overlay and 
+                     Pad Cy1_TPS5-2(4694.527mil,2360mil)  Top Layer
+   Violation between Track (3421.22mil,2391.693mil)(3421.22mil,2407.441mil)  Top Overlay and 
+                     Pad Cx1_TPS6-1(3435mil,2370.039mil)  Top Layer
+   Violation between Track (3448.779mil,2391.693mil)(3448.779mil,2407.441mil)  Top Overlay and 
+                     Pad Cx1_TPS6-1(3435mil,2370.039mil)  Top Layer
+   Violation between Track (3421.22mil,2391.693mil)(3421.22mil,2407.441mil)  Top Overlay and 
+                     Pad Cx1_TPS6-2(3435mil,2429.095mil)  Top Layer
+   Violation between Track (3448.779mil,2391.693mil)(3448.779mil,2407.441mil)  Top Overlay and 
+                     Pad Cx1_TPS6-2(3435mil,2429.095mil)  Top Layer
+   Violation between Track (4776.22mil,2382.126mil)(4776.22mil,2397.874mil)  Top Overlay and 
+                     Pad Cx1_TPS5-1(4790mil,2360.473mil)  Top Layer
+   Violation between Track (4803.779mil,2382.126mil)(4803.779mil,2397.874mil)  Top Overlay and 
+                     Pad Cx1_TPS5-1(4790mil,2360.473mil)  Top Layer
+   Violation between Track (4776.22mil,2382.126mil)(4776.22mil,2397.874mil)  Top Overlay and 
+                     Pad Cx1_TPS5-2(4790mil,2419.528mil)  Top Layer
+   Violation between Track (4803.779mil,2382.126mil)(4803.779mil,2397.874mil)  Top Overlay and 
+                     Pad Cx1_TPS5-2(4790mil,2419.528mil)  Top Layer
+   Violation between Track (3566.22mil,2396.693mil)(3566.22mil,2412.441mil)  Top Overlay and 
+                     Pad Cout1_TPS6-1(3580mil,2434.095mil)  Top Layer
+   Violation between Track (3593.78mil,2396.693mil)(3593.78mil,2412.441mil)  Top Overlay and 
+                     Pad Cout1_TPS6-1(3580mil,2434.095mil)  Top Layer
+   Violation between Track (3566.22mil,2396.693mil)(3566.22mil,2412.441mil)  Top Overlay and 
+                     Pad Cout1_TPS6-2(3580mil,2375.039mil)  Top Layer
+   Violation between Track (3593.78mil,2396.693mil)(3593.78mil,2412.441mil)  Top Overlay and 
+                     Pad Cout1_TPS6-2(3580mil,2375.039mil)  Top Layer
+   Violation between Track (4933.779mil,2376.693mil)(4933.779mil,2392.441mil)  Top Overlay and 
+                     Pad Cout1_TPS5-1(4920mil,2355.039mil)  Top Layer
+   Violation between Track (4906.22mil,2376.693mil)(4906.22mil,2392.441mil)  Top Overlay and 
+                     Pad Cout1_TPS5-1(4920mil,2355.039mil)  Top Layer
+   Violation between Track (4933.779mil,2376.693mil)(4933.779mil,2392.441mil)  Top Overlay and 
+                     Pad Cout1_TPS5-2(4920mil,2414.095mil)  Top Layer
+   Violation between Track (4906.22mil,2376.693mil)(4906.22mil,2392.441mil)  Top Overlay and 
+                     Pad Cout1_TPS5-2(4920mil,2414.095mil)  Top Layer
+   Violation between Track (3032.559mil,2853.346mil)(3048.307mil,2853.346mil)  Top Overlay and 
+                     Pad CIN1_TPS6-1(3069.96mil,2839.567mil)  Top Layer
+   Violation between Track (3032.559mil,2825.787mil)(3048.307mil,2825.787mil)  Top Overlay and 
+                     Pad CIN1_TPS6-1(3069.96mil,2839.567mil)  Top Layer
+   Violation between Track (3032.559mil,2853.346mil)(3048.307mil,2853.346mil)  Top Overlay and 
+                     Pad CIN1_TPS6-2(3010.905mil,2839.567mil)  Top Layer
+   Violation between Track (3032.559mil,2825.787mil)(3048.307mil,2825.787mil)  Top Overlay and 
+                     Pad CIN1_TPS6-2(3010.905mil,2839.567mil)  Top Layer
+   Violation between Track (4372.126mil,2843.347mil)(4387.874mil,2843.347mil)  Top Overlay and 
+                     Pad CIN1_TPS5-1(4409.527mil,2829.567mil)  Top Layer
+   Violation between Track (4372.126mil,2815.787mil)(4387.874mil,2815.787mil)  Top Overlay and 
+                     Pad CIN1_TPS5-1(4409.527mil,2829.567mil)  Top Layer
+   Violation between Track (4372.126mil,2843.347mil)(4387.874mil,2843.347mil)  Top Overlay and 
+                     Pad CIN1_TPS5-2(4350.472mil,2829.567mil)  Top Layer
+   Violation between Track (4372.126mil,2815.787mil)(4387.874mil,2815.787mil)  Top Overlay and 
+                     Pad CIN1_TPS5-2(4350.472mil,2829.567mil)  Top Layer
+   Violation between Track (3137.559mil,2355.787mil)(3153.307mil,2355.787mil)  Top Overlay and 
+                     Pad Cbst1_TPS6-1(3115.905mil,2369.567mil)  Top Layer
+   Violation between Track (3137.559mil,2383.347mil)(3153.307mil,2383.347mil)  Top Overlay and 
+                     Pad Cbst1_TPS6-1(3115.905mil,2369.567mil)  Top Layer
+   Violation between Track (3137.559mil,2355.787mil)(3153.307mil,2355.787mil)  Top Overlay and 
+                     Pad Cbst1_TPS6-2(3174.961mil,2369.567mil)  Top Layer
+   Violation between Track (3137.559mil,2383.347mil)(3153.307mil,2383.347mil)  Top Overlay and 
+                     Pad Cbst1_TPS6-2(3174.961mil,2369.567mil)  Top Layer
+   Violation between Track (4477.126mil,2345.787mil)(4492.874mil,2345.787mil)  Top Overlay and 
+                     Pad Cbst1_TPS5-1(4455.472mil,2359.567mil)  Top Layer
+   Violation between Track (4477.126mil,2373.347mil)(4492.874mil,2373.347mil)  Top Overlay and 
+                     Pad Cbst1_TPS5-1(4455.472mil,2359.567mil)  Top Layer
+   Violation between Track (4477.126mil,2345.787mil)(4492.874mil,2345.787mil)  Top Overlay and 
+                     Pad Cbst1_TPS5-2(4514.528mil,2359.567mil)  Top Layer
+   Violation between Track (4477.126mil,2373.347mil)(4492.874mil,2373.347mil)  Top Overlay and 
+                     Pad Cbst1_TPS5-2(4514.528mil,2359.567mil)  Top Layer
+   Violation between Track (3581.22mil,2751.693mil)(3581.22mil,2767.441mil)  Top Overlay and 
+                     Pad C8_TPS6-1(3595mil,2730.039mil)  Top Layer
+   Violation between Track (3608.779mil,2751.693mil)(3608.779mil,2767.441mil)  Top Overlay and 
+                     Pad C8_TPS6-1(3595mil,2730.039mil)  Top Layer
+   Violation between Track (3581.22mil,2751.693mil)(3581.22mil,2767.441mil)  Top Overlay and 
+                     Pad C8_TPS6-2(3595mil,2789.095mil)  Top Layer
+   Violation between Track (3608.779mil,2751.693mil)(3608.779mil,2767.441mil)  Top Overlay and 
+                     Pad C8_TPS6-2(3595mil,2789.095mil)  Top Layer
+   Violation between Track (4933.779mil,2742.126mil)(4933.779mil,2757.874mil)  Top Overlay and 
+                     Pad C8_TPS5-1(4920mil,2720.473mil)  Top Layer
+   Violation between Track (4906.22mil,2742.126mil)(4906.22mil,2757.874mil)  Top Overlay and 
+                     Pad C8_TPS5-1(4920mil,2720.473mil)  Top Layer
+   Violation between Track (4933.779mil,2742.126mil)(4933.779mil,2757.874mil)  Top Overlay and 
+                     Pad C8_TPS5-2(4920mil,2779.528mil)  Top Layer
+   Violation between Track (4906.22mil,2742.126mil)(4906.22mil,2757.874mil)  Top Overlay and 
+                     Pad C8_TPS5-2(4920mil,2779.528mil)  Top Layer
+   Violation between Track (3386.22mil,2751.693mil)(3386.22mil,2767.441mil)  Top Overlay and 
+                     Pad C7_TPS6-1(3400mil,2789.095mil)  Top Layer
+   Violation between Track (3413.78mil,2751.693mil)(3413.78mil,2767.441mil)  Top Overlay and 
+                     Pad C7_TPS6-1(3400mil,2789.095mil)  Top Layer
+   Violation between Track (3386.22mil,2751.693mil)(3386.22mil,2767.441mil)  Top Overlay and 
+                     Pad C7_TPS6-2(3400mil,2730.039mil)  Top Layer
+   Violation between Track (3413.78mil,2751.693mil)(3413.78mil,2767.441mil)  Top Overlay and 
+                     Pad C7_TPS6-2(3400mil,2730.039mil)  Top Layer
+   Violation between Track (4726.22mil,2741.693mil)(4726.22mil,2757.441mil)  Top Overlay and 
+                     Pad C7_TPS5-1(4740mil,2779.095mil)  Top Layer
+   Violation between Track (4753.779mil,2741.693mil)(4753.779mil,2757.441mil)  Top Overlay and 
+                     Pad C7_TPS5-1(4740mil,2779.095mil)  Top Layer
+   Violation between Track (4726.22mil,2741.693mil)(4726.22mil,2757.441mil)  Top Overlay and 
+                     Pad C7_TPS5-2(4740mil,2720.039mil)  Top Layer
+   Violation between Track (4753.779mil,2741.693mil)(4753.779mil,2757.441mil)  Top Overlay and 
+                     Pad C7_TPS5-2(4740mil,2720.039mil)  Top Layer
+   Violation between Track (3566.22mil,2561.693mil)(3566.22mil,2577.441mil)  Top Overlay and 
+                     Pad C6_TPS6-1(3580mil,2599.095mil)  Top Layer
+   Violation between Track (3593.78mil,2561.693mil)(3593.78mil,2577.441mil)  Top Overlay and 
+                     Pad C6_TPS6-1(3580mil,2599.095mil)  Top Layer
+   Violation between Track (3566.22mil,2561.693mil)(3566.22mil,2577.441mil)  Top Overlay and 
+                     Pad C6_TPS6-2(3580mil,2540.039mil)  Top Layer
+   Violation between Track (3593.78mil,2561.693mil)(3593.78mil,2577.441mil)  Top Overlay and 
+                     Pad C6_TPS6-2(3580mil,2540.039mil)  Top Layer
+   Violation between Track (4911.22mil,2551.693mil)(4911.22mil,2567.441mil)  Top Overlay and 
+                     Pad C6_TPS5-1(4925mil,2589.095mil)  Top Layer
+   Violation between Track (4938.779mil,2551.693mil)(4938.779mil,2567.441mil)  Top Overlay and 
+                     Pad C6_TPS5-1(4925mil,2589.095mil)  Top Layer
+   Violation between Track (4911.22mil,2551.693mil)(4911.22mil,2567.441mil)  Top Overlay and 
+                     Pad C6_TPS5-2(4925mil,2530.039mil)  Top Layer
+   Violation between Track (4938.779mil,2551.693mil)(4938.779mil,2567.441mil)  Top Overlay and 
+                     Pad C6_TPS5-2(4925mil,2530.039mil)  Top Layer
+   Violation between Track (1594.78mil,2293.643mil)(1594.78mil,2309.391mil)  Top Overlay and 
+                     Pad C5_oringD-1(1581mil,2271.989mil)  Top Layer
+   Violation between Track (1567.22mil,2293.643mil)(1567.22mil,2309.391mil)  Top Overlay and 
+                     Pad C5_oringD-1(1581mil,2271.989mil)  Top Layer
+   Violation between Track (1594.78mil,2293.643mil)(1594.78mil,2309.391mil)  Top Overlay and 
+                     Pad C5_oringD-2(1581mil,2331.044mil)  Top Layer
+   Violation between Track (1567.22mil,2293.643mil)(1567.22mil,2309.391mil)  Top Overlay and 
+                     Pad C5_oringD-2(1581mil,2331.044mil)  Top Layer
+   Violation between Track (1569.551mil,2969.724mil)(1569.551mil,2985.472mil)  Top Overlay and 
+                     Pad C5_oringC-1(1583.331mil,2948.071mil)  Top Layer
+   Violation between Track (1597.11mil,2969.724mil)(1597.11mil,2985.472mil)  Top Overlay and 
+                     Pad C5_oringC-1(1583.331mil,2948.071mil)  Top Layer
+   Violation between Track (1569.551mil,2969.724mil)(1569.551mil,2985.472mil)  Top Overlay and 
+                     Pad C5_oringC-2(1583.331mil,3007.126mil)  Top Layer
+   Violation between Track (1597.11mil,2969.724mil)(1597.11mil,2985.472mil)  Top Overlay and 
+                     Pad C5_oringC-2(1583.331mil,3007.126mil)  Top Layer
+   Violation between Track (1568.622mil,3675.806mil)(1568.622mil,3691.554mil)  Top Overlay and 
+                     Pad C5_oringB-1(1582.401mil,3654.153mil)  Top Layer
+   Violation between Track (1596.181mil,3675.806mil)(1596.181mil,3691.554mil)  Top Overlay and 
+                     Pad C5_oringB-1(1582.401mil,3654.153mil)  Top Layer
+   Violation between Track (1568.622mil,3675.806mil)(1568.622mil,3691.554mil)  Top Overlay and 
+                     Pad C5_oringB-2(1582.401mil,3713.208mil)  Top Layer
+   Violation between Track (1596.181mil,3675.806mil)(1596.181mil,3691.554mil)  Top Overlay and 
+                     Pad C5_oringB-2(1582.401mil,3713.208mil)  Top Layer
+   Violation between Track (1582.78mil,4394.724mil)(1582.78mil,4410.472mil)  Top Overlay and 
+                     Pad C5_oringA-1(1569mil,4373.071mil)  Top Layer
+   Violation between Track (1555.22mil,4394.724mil)(1555.22mil,4410.472mil)  Top Overlay and 
+                     Pad C5_oringA-1(1569mil,4373.071mil)  Top Layer
+   Violation between Track (1582.78mil,4394.724mil)(1582.78mil,4410.472mil)  Top Overlay and 
+                     Pad C5_oringA-2(1569mil,4432.126mil)  Top Layer
+   Violation between Track (1555.22mil,4394.724mil)(1555.22mil,4410.472mil)  Top Overlay and 
+                     Pad C5_oringA-2(1569mil,4432.126mil)  Top Layer
+   Violation between Track (4420mil,3685mil)(4420mil,3885mil)  Top Overlay and 
+                     Pad U5-8(4472.36mil,3860mil)  Top Layer
+   Violation between Track (4420mil,3685mil)(4420mil,3885mil)  Top Overlay and 
+                     Pad U5-7(4472.36mil,3810mil)  Top Layer
+   Violation between Track (4420mil,3685mil)(4420mil,3885mil)  Top Overlay and 
+                     Pad U5-6(4472.36mil,3760mil)  Top Layer
+   Violation between Track (4420mil,3685mil)(4420mil,3885mil)  Top Overlay and 
+                     Pad U5-5(4472.36mil,3710mil)  Top Layer
+   Violation between Track (4320mil,3685mil)(4320mil,3885mil)  Top Overlay and 
+                     Pad U5-4(4267.64mil,3710mil)  Top Layer
+   Violation between Track (4320mil,3685mil)(4320mil,3885mil)  Top Overlay and 
+                     Pad U5-3(4267.64mil,3760mil)  Top Layer
+   Violation between Track (4320mil,3685mil)(4320mil,3885mil)  Top Overlay and 
+                     Pad U5-2(4267.64mil,3810mil)  Top Layer
+   Violation between Text "2" (4218.5mil,3885.5mil)  Top Overlay and 
+                     Pad U5-1(4267.64mil,3860mil)  Top Layer
+   Violation between Track (4320mil,3685mil)(4320mil,3885mil)  Top Overlay and 
+                     Pad U5-1(4267.64mil,3860mil)  Top Layer
+   Violation between Track (2083.992mil,3879.18mil)(2120.811mil,3879.18mil)  Top Overlay and 
+                     Pad U4_oringB-1(2056.402mil,3856.082mil)  Top Layer
+   Violation between Track (2083.992mil,3758.18mil)(2120.811mil,3758.18mil)  Top Overlay and 
+                     Pad U4_oringB-3(2056.402mil,3781.278mil)  Top Layer
+   Violation between Track (2083.992mil,3758.18mil)(2120.811mil,3758.18mil)  Top Overlay and 
+                     Pad U4_oringB-4(2148.402mil,3781.278mil)  Top Layer
+   Violation between Text "PN" (2102.402mil,3818.68mil)  Top Overlay and 
+                     Pad U4_oringB-5(2148.402mil,3818.68mil)  Top Layer
+   Violation between Text "TOL" (2102.402mil,3818.68mil)  Top Overlay and 
+                     Pad U4_oringB-5(2148.402mil,3818.68mil)  Top Layer
+   Violation between Text "VAL" (2102.402mil,3818.68mil)  Top Overlay and 
+                     Pad U4_oringB-5(2148.402mil,3818.68mil)  Top Layer
+   Violation between Text "DEV" (2102.402mil,3818.68mil)  Top Overlay and 
+                     Pad U4_oringB-5(2148.402mil,3818.68mil)  Top Layer
+   Violation between Track (2083.992mil,3879.18mil)(2120.811mil,3879.18mil)  Top Overlay and 
+                     Pad U4_oringB-6(2148.402mil,3856.082mil)  Top Layer
+   Violation between Text "PN" (2102.402mil,3818.68mil)  Top Overlay and 
+                     Pad U4_oringB-6(2148.402mil,3856.082mil)  Top Layer
+   Violation between Text "TOL" (2102.402mil,3818.68mil)  Top Overlay and 
+                     Pad U4_oringB-6(2148.402mil,3856.082mil)  Top Layer
+   Violation between Text "VAL" (2102.402mil,3818.68mil)  Top Overlay and 
+                     Pad U4_oringB-6(2148.402mil,3856.082mil)  Top Layer
+   Violation between Text "DEV" (2102.402mil,3818.68mil)  Top Overlay and 
+                     Pad U4_oringB-6(2148.402mil,3856.082mil)  Top Layer
+   Violation between Track (2084.921mil,3173.098mil)(2121.74mil,3173.098mil)  Top Overlay and 
+                     Pad U4_oringC-1(2057.331mil,3150mil)  Top Layer
+   Violation between Track (2084.921mil,3052.098mil)(2121.74mil,3052.098mil)  Top Overlay and 
+                     Pad U4_oringC-3(2057.331mil,3075.197mil)  Top Layer
+   Violation between Track (2084.921mil,3052.098mil)(2121.74mil,3052.098mil)  Top Overlay and 
+                     Pad U4_oringC-4(2149.331mil,3075.197mil)  Top Layer
+   Violation between Text "PN" (2103.331mil,3112.598mil)  Top Overlay and 
+                     Pad U4_oringC-5(2149.331mil,3112.598mil)  Top Layer
+   Violation between Text "TOL" (2103.331mil,3112.598mil)  Top Overlay and 
+                     Pad U4_oringC-5(2149.331mil,3112.598mil)  Top Layer
+   Violation between Text "VAL" (2103.331mil,3112.598mil)  Top Overlay and 
+                     Pad U4_oringC-5(2149.331mil,3112.598mil)  Top Layer
+   Violation between Text "DEV" (2103.331mil,3112.598mil)  Top Overlay and 
+                     Pad U4_oringC-5(2149.331mil,3112.598mil)  Top Layer
+   Violation between Track (2084.921mil,3173.098mil)(2121.74mil,3173.098mil)  Top Overlay and 
+                     Pad U4_oringC-6(2149.331mil,3150mil)  Top Layer
+   Violation between Text "PN" (2103.331mil,3112.598mil)  Top Overlay and 
+                     Pad U4_oringC-6(2149.331mil,3150mil)  Top Layer
+   Violation between Text "TOL" (2103.331mil,3112.598mil)  Top Overlay and 
+                     Pad U4_oringC-6(2149.331mil,3150mil)  Top Layer
+   Violation between Text "VAL" (2103.331mil,3112.598mil)  Top Overlay and 
+                     Pad U4_oringC-6(2149.331mil,3150mil)  Top Layer
+   Violation between Text "DEV" (2103.331mil,3112.598mil)  Top Overlay and 
+                     Pad U4_oringC-6(2149.331mil,3150mil)  Top Layer
+   Violation between Text "WireHeader1" (3971mil,3444mil)  Top Overlay and 
+                     Pad C3-2(3935mil,3445.472mil)  Top Layer
+   Violation between Track (3840.919mil,3756.5mil)(3949.081mil,3756.5mil)  Top Overlay and 
+                     Pad KinectReg1-1(3992mil,3780mil)  Top Layer
+   Violation between Track (3840.919mil,3953.5mil)(3949.081mil,3953.5mil)  Top Overlay and 
+                     Pad KinectReg1-4(3992mil,3930mil)  Top Layer
+   Violation between Track (3840.919mil,3953.5mil)(3949.081mil,3953.5mil)  Top Overlay and 
+                     Pad KinectReg1-5(3798mil,3930mil)  Top Layer
+   Violation between Text "DEV" (3895mil,3855mil)  Top Overlay and 
+                     Pad KinectReg1-7(3798mil,3830mil)  Top Layer
+   Violation between Track (3840.919mil,3756.5mil)(3949.081mil,3756.5mil)  Top Overlay and 
+                     Pad KinectReg1-8(3798mil,3780mil)  Top Layer
+   Violation between Text "TOL" (4505mil,2635mil)  Top Overlay and 
+                     Pad TPS1_TPS5-15(4495.158mil,2557.244mil)  Top Layer
+   Violation between Text "VAL" (4505mil,2635mil)  Top Overlay and 
+                     Pad TPS1_TPS5-15(4495.158mil,2557.244mil)  Top Layer
+   Violation between Text "DEV" (4505mil,2635mil)  Top Overlay and 
+                     Pad TPS1_TPS5-15(4495.158mil,2557.244mil)  Top Layer
+   Violation between Text "TOL" (4505mil,2635mil)  Top Overlay and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Text "VAL" (4505mil,2635mil)  Top Overlay and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Text "DEV" (4505mil,2635mil)  Top Overlay and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Text "DEV" (4505mil,2635mil)  Top Overlay and 
+                     Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer
+   Violation between Text "PN" (5065mil,3510mil)  Top Overlay and 
+                     Pad U1-4(5065mil,3516mil)  Top Layer
+   Violation between Text "TOL" (5065mil,3510mil)  Top Overlay and 
+                     Pad U1-4(5065mil,3516mil)  Top Layer
+   Violation between Text "VAL" (5065mil,3510mil)  Top Overlay and 
+                     Pad U1-4(5065mil,3516mil)  Top Layer
+   Violation between Text "DEV" (5065mil,3510mil)  Top Overlay and 
+                     Pad U1-4(5065mil,3516mil)  Top Layer
+   Violation between Text "U4_oringA" (2466.5mil,4655.098mil)  Top Overlay and 
+                     Pad U3_oringA-6(2439mil,4620.278mil)  Top Layer
+   Violation between Text "U4_oringA" (2466.5mil,4655.098mil)  Top Overlay and 
+                     Pad U3_oringA-5(2489mil,4620.278mil)  Top Layer
+   Violation between Track (2512.425mil,4424.976mil)(2512.425mil,4444.108mil)  Top Overlay and 
+                     Pad U3_oringA-4(2489mil,4404.918mil)  Top Layer
+   Violation between Track (2315.575mil,4424.976mil)(2315.575mil,4444.108mil)  Top Overlay and 
+                     Pad U3_oringA-1(2339mil,4404.918mil)  Top Layer
+   Violation between Text "U4_oringB" (2479.901mil,3936.18mil)  Top Overlay and 
+                     Pad U3_oringB-6(2452.402mil,3901.36mil)  Top Layer
+   Violation between Text "U4_oringB" (2479.901mil,3936.18mil)  Top Overlay and 
+                     Pad U3_oringB-5(2502.402mil,3901.36mil)  Top Layer
+   Violation between Track (2525.827mil,3706.058mil)(2525.827mil,3725.189mil)  Top Overlay and 
+                     Pad U3_oringB-4(2502.402mil,3686mil)  Top Layer
+   Violation between Track (2328.976mil,3706.058mil)(2328.976mil,3725.189mil)  Top Overlay and 
+                     Pad U3_oringB-1(2352.402mil,3686mil)  Top Layer
+   Violation between Text "U4_oringC" (2480.831mil,3230.098mil)  Top Overlay and 
+                     Pad U3_oringC-6(2453.331mil,3195.278mil)  Top Layer
+   Violation between Text "U4_oringC" (2480.831mil,3230.098mil)  Top Overlay and 
+                     Pad U3_oringC-5(2503.331mil,3195.278mil)  Top Layer
+   Violation between Track (2526.756mil,2999.976mil)(2526.756mil,3019.108mil)  Top Overlay and 
+                     Pad U3_oringC-4(2503.331mil,2979.918mil)  Top Layer
+   Violation between Track (2329.905mil,2999.976mil)(2329.905mil,3019.108mil)  Top Overlay and 
+                     Pad U3_oringC-1(2353.331mil,2979.918mil)  Top Layer
+   Violation between Text "U4_oringD" (2478.5mil,2554.017mil)  Top Overlay and 
+                     Pad U3_oringD-6(2451mil,2519.197mil)  Top Layer
+   Violation between Text "U4_oringD" (2478.5mil,2554.017mil)  Top Overlay and 
+                     Pad U3_oringD-5(2501mil,2519.197mil)  Top Layer
+   Violation between Track (2524.425mil,2323.894mil)(2524.425mil,2343.026mil)  Top Overlay and 
+                     Pad U3_oringD-4(2501mil,2303.837mil)  Top Layer
+   Violation between Track (2327.575mil,2323.894mil)(2327.575mil,2343.026mil)  Top Overlay and 
+                     Pad U3_oringD-1(2351mil,2303.837mil)  Top Layer
+   Violation between Track (2070.59mil,4598.098mil)(2107.41mil,4598.098mil)  Top Overlay and 
+                     Pad U4_oringA-1(2043mil,4575mil)  Top Layer
+   Violation between Track (2070.59mil,4477.098mil)(2107.41mil,4477.098mil)  Top Overlay and 
+                     Pad U4_oringA-3(2043mil,4500.197mil)  Top Layer
+Rule Violations :148
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Pad U4_oringB-2(2056.402mil,3818.68mil)  Top Layer and 
+                     Pad U4_oringB-1(2056.402mil,3856.082mil)  Top Layer
+   Violation between Pad U4_oringB-3(2056.402mil,3781.278mil)  Top Layer and 
+                     Pad U4_oringB-2(2056.402mil,3818.68mil)  Top Layer
+   Violation between Pad U4_oringB-5(2148.402mil,3818.68mil)  Top Layer and 
+                     Pad U4_oringB-4(2148.402mil,3781.278mil)  Top Layer
+   Violation between Pad U4_oringB-6(2148.402mil,3856.082mil)  Top Layer and 
+                     Pad U4_oringB-5(2148.402mil,3818.68mil)  Top Layer
+   Violation between Pad U4_oringC-2(2057.331mil,3112.598mil)  Top Layer and 
+                     Pad U4_oringC-1(2057.331mil,3150mil)  Top Layer
+   Violation between Pad U4_oringC-3(2057.331mil,3075.197mil)  Top Layer and 
+                     Pad U4_oringC-2(2057.331mil,3112.598mil)  Top Layer
+   Violation between Pad U4_oringC-5(2149.331mil,3112.598mil)  Top Layer and 
+                     Pad U4_oringC-4(2149.331mil,3075.197mil)  Top Layer
+   Violation between Pad U4_oringC-6(2149.331mil,3150mil)  Top Layer and 
+                     Pad U4_oringC-5(2149.331mil,3112.598mil)  Top Layer
+   Violation between Pad 1-2(3595mil,3979.528mil)  Top Layer and 
+                     Pad 1-1(3595mil,3920.472mil)  Top Layer
+   Violation between Pad C1-2(4965.472mil,3015mil)  Top Layer and 
+                     Pad C1-1(5024.528mil,3015mil)  Top Layer
+   Violation between Pad C2-2(4720mil,3844.528mil)  Top Layer and 
+                     Pad C2-1(4720mil,3785.472mil)  Top Layer
+   Violation between Pad C3-2(3935mil,3445.472mil)  Top Layer and 
+                     Pad C3-1(3935mil,3504.528mil)  Top Layer
+   Violation between Pad C4-2(3105mil,4329.528mil)  Top Layer and 
+                     Pad C4-1(3105mil,4270.472mil)  Top Layer
+   Violation between Pad TPS1_TPS5-2(4534.528mil,2712.756mil)  Top Layer and 
+                     Pad TPS1_TPS5-1(4554.213mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-1(4554.213mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-1(4554.213mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-1(4554.213mil,2712.756mil)  Top Layer
+   Violation between Pad TPS1_TPS5-3(4514.842mil,2712.756mil)  Top Layer and 
+                     Pad TPS1_TPS5-2(4534.528mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-2(4534.528mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-2(4534.528mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-2(4534.528mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-2(4534.528mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-2(4534.528mil,2712.756mil)  Top Layer
+   Violation between Pad TPS1_TPS5-4(4495.158mil,2712.756mil)  Top Layer and 
+                     Pad TPS1_TPS5-3(4514.842mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-3(4514.842mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-3(4514.842mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-3(4514.842mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-3(4514.842mil,2712.756mil)  Top Layer
+   Violation between Pad TPS1_TPS5-5(4475.472mil,2712.756mil)  Top Layer and 
+                     Pad TPS1_TPS5-4(4495.158mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-4(4495.158mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-4(4495.158mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-4(4495.158mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-4(4495.158mil,2712.756mil)  Top Layer
+   Violation between Pad TPS1_TPS5-6(4455.787mil,2712.756mil)  Top Layer and 
+                     Pad TPS1_TPS5-5(4475.472mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-5(4475.472mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-5(4475.472mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-5(4475.472mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-5(4475.472mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-5(4475.472mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-6(4455.787mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-6(4455.787mil,2712.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-6(4455.787mil,2712.756mil)  Top Layer
+   Violation between Pad TPS1_TPS5-8(4427.244mil,2664.535mil)  Top Layer and 
+                     Pad TPS1_TPS5-7(4427.244mil,2684.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-7(4427.244mil,2684.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-7(4427.244mil,2684.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-7(4427.244mil,2684.225mil)  Top Layer
+   Violation between Pad TPS1_TPS5-9(4427.244mil,2644.845mil)  Top Layer and 
+                     Pad TPS1_TPS5-8(4427.244mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-8(4427.244mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-8(4427.244mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-8(4427.244mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-8(4427.244mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-8(4427.244mil,2664.535mil)  Top Layer
+   Violation between Pad TPS1_TPS5-10(4427.244mil,2625.155mil)  Top Layer and 
+                     Pad TPS1_TPS5-9(4427.244mil,2644.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-9(4427.244mil,2644.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-9(4427.244mil,2644.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-9(4427.244mil,2644.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-9(4427.244mil,2644.845mil)  Top Layer
+   Violation between Pad TPS1_TPS5-11(4427.244mil,2605.465mil)  Top Layer and 
+                     Pad TPS1_TPS5-10(4427.244mil,2625.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-10(4427.244mil,2625.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-10(4427.244mil,2625.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-10(4427.244mil,2625.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-10(4427.244mil,2625.155mil)  Top Layer
+   Violation between Pad TPS1_TPS5-12(4427.244mil,2585.775mil)  Top Layer and 
+                     Pad TPS1_TPS5-11(4427.244mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-11(4427.244mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-11(4427.244mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-11(4427.244mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-11(4427.244mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-11(4427.244mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-12(4427.244mil,2585.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-12(4427.244mil,2585.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-12(4427.244mil,2585.775mil)  Top Layer
+   Violation between Pad TPS1_TPS5-14(4475.472mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-13(4455.787mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-13(4455.787mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-13(4455.787mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-13(4455.787mil,2557.244mil)  Top Layer
+   Violation between Pad TPS1_TPS5-15(4495.158mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-14(4475.472mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-14(4475.472mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-14(4475.472mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-14(4475.472mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-14(4475.472mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-14(4475.472mil,2557.244mil)  Top Layer
+   Violation between Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-15(4495.158mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-15(4495.158mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-15(4495.158mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-15(4495.158mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-15(4495.158mil,2557.244mil)  Top Layer
+   Violation between Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Pad TPS1_TPS5-18(4554.213mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-18(4554.213mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-18(4554.213mil,2557.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-18(4554.213mil,2557.244mil)  Top Layer
+   Violation between Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer and 
+                     Pad TPS1_TPS5-19(4582.756mil,2585.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-19(4582.756mil,2585.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-19(4582.756mil,2585.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-19(4582.756mil,2585.775mil)  Top Layer
+   Violation between Pad TPS1_TPS5-21(4582.756mil,2625.155mil)  Top Layer and 
+                     Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer
+   Violation between Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer and 
+                     Pad TPS1_TPS5-21(4582.756mil,2625.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-21(4582.756mil,2625.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-21(4582.756mil,2625.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-21(4582.756mil,2625.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-21(4582.756mil,2625.155mil)  Top Layer
+   Violation between Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer and 
+                     Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer
+   Violation between Pad TPS1_TPS5-24(4582.756mil,2684.225mil)  Top Layer and 
+                     Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-24(4582.756mil,2684.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-24(4582.756mil,2684.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-24(4582.756mil,2684.225mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4536mil,2604mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4505mil,2604mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4536mil,2666mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4505mil,2666mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4536mil,2635mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4474mil,2604mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4474mil,2666mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4474mil,2635mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS6-2(3174.961mil,2747.756mil)  Top Layer and 
+                     Pad TPS1_TPS6-1(3194.646mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-1(3194.646mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-1(3194.646mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-1(3194.646mil,2747.756mil)  Top Layer
+   Violation between Pad TPS1_TPS6-3(3155.276mil,2747.756mil)  Top Layer and 
+                     Pad TPS1_TPS6-2(3174.961mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-2(3174.961mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-2(3174.961mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-2(3174.961mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-2(3174.961mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-2(3174.961mil,2747.756mil)  Top Layer
+   Violation between Pad TPS1_TPS6-4(3135.59mil,2747.756mil)  Top Layer and 
+                     Pad TPS1_TPS6-3(3155.276mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-3(3155.276mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-3(3155.276mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-3(3155.276mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-3(3155.276mil,2747.756mil)  Top Layer
+   Violation between Pad TPS1_TPS6-5(3115.905mil,2747.756mil)  Top Layer and 
+                     Pad TPS1_TPS6-4(3135.59mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-4(3135.59mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-4(3135.59mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-4(3135.59mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-4(3135.59mil,2747.756mil)  Top Layer
+   Violation between Pad TPS1_TPS6-6(3096.22mil,2747.756mil)  Top Layer and 
+                     Pad TPS1_TPS6-5(3115.905mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-5(3115.905mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-5(3115.905mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-5(3115.905mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-5(3115.905mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-5(3115.905mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-6(3096.22mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-6(3096.22mil,2747.756mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-6(3096.22mil,2747.756mil)  Top Layer
+   Violation between Pad TPS1_TPS6-8(3067.677mil,2699.535mil)  Top Layer and 
+                     Pad TPS1_TPS6-7(3067.677mil,2719.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-7(3067.677mil,2719.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-7(3067.677mil,2719.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-7(3067.677mil,2719.225mil)  Top Layer
+   Violation between Pad TPS1_TPS6-9(3067.677mil,2679.845mil)  Top Layer and 
+                     Pad TPS1_TPS6-8(3067.677mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-8(3067.677mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-8(3067.677mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-8(3067.677mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-8(3067.677mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-8(3067.677mil,2699.535mil)  Top Layer
+   Violation between Pad TPS1_TPS6-10(3067.677mil,2660.155mil)  Top Layer and 
+                     Pad TPS1_TPS6-9(3067.677mil,2679.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-9(3067.677mil,2679.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-9(3067.677mil,2679.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-9(3067.677mil,2679.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-9(3067.677mil,2679.845mil)  Top Layer
+   Violation between Pad TPS1_TPS6-11(3067.677mil,2640.465mil)  Top Layer and 
+                     Pad TPS1_TPS6-10(3067.677mil,2660.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-10(3067.677mil,2660.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-10(3067.677mil,2660.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-10(3067.677mil,2660.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-10(3067.677mil,2660.155mil)  Top Layer
+   Violation between Pad TPS1_TPS6-12(3067.677mil,2620.775mil)  Top Layer and 
+                     Pad TPS1_TPS6-11(3067.677mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-11(3067.677mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-11(3067.677mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-11(3067.677mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-11(3067.677mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-11(3067.677mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-12(3067.677mil,2620.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-12(3067.677mil,2620.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-12(3067.677mil,2620.775mil)  Top Layer
+   Violation between Pad TPS1_TPS6-14(3115.905mil,2592.244mil)  Top Layer and 
+                     Pad TPS1_TPS6-13(3096.22mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-13(3096.22mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-13(3096.22mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-13(3096.22mil,2592.244mil)  Top Layer
+   Violation between Pad TPS1_TPS6-15(3135.59mil,2592.244mil)  Top Layer and 
+                     Pad TPS1_TPS6-14(3115.905mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-14(3115.905mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-14(3115.905mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-14(3115.905mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-14(3115.905mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-14(3115.905mil,2592.244mil)  Top Layer
+   Violation between Pad TPS1_TPS6-16(3155.276mil,2592.244mil)  Top Layer and 
+                     Pad TPS1_TPS6-15(3135.59mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-15(3135.59mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-15(3135.59mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-15(3135.59mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-15(3135.59mil,2592.244mil)  Top Layer
+   Violation between Pad TPS1_TPS6-17(3174.961mil,2592.244mil)  Top Layer and 
+                     Pad TPS1_TPS6-16(3155.276mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-16(3155.276mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-16(3155.276mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-16(3155.276mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-16(3155.276mil,2592.244mil)  Top Layer
+   Violation between Pad TPS1_TPS6-18(3194.646mil,2592.244mil)  Top Layer and 
+                     Pad TPS1_TPS6-17(3174.961mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-17(3174.961mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-17(3174.961mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-17(3174.961mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-17(3174.961mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-17(3174.961mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-18(3194.646mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-18(3194.646mil,2592.244mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-18(3194.646mil,2592.244mil)  Top Layer
+   Violation between Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer and 
+                     Pad TPS1_TPS6-19(3223.189mil,2620.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-19(3223.189mil,2620.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-19(3223.189mil,2620.775mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-19(3223.189mil,2620.775mil)  Top Layer
+   Violation between Pad TPS1_TPS6-21(3223.189mil,2660.155mil)  Top Layer and 
+                     Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer
+   Violation between Pad TPS1_TPS6-22(3223.189mil,2679.845mil)  Top Layer and 
+                     Pad TPS1_TPS6-21(3223.189mil,2660.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-21(3223.189mil,2660.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-21(3223.189mil,2660.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-21(3223.189mil,2660.155mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-21(3223.189mil,2660.155mil)  Top Layer
+   Violation between Pad TPS1_TPS6-23(3223.189mil,2699.535mil)  Top Layer and 
+                     Pad TPS1_TPS6-22(3223.189mil,2679.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-22(3223.189mil,2679.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-22(3223.189mil,2679.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-22(3223.189mil,2679.845mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-22(3223.189mil,2679.845mil)  Top Layer
+   Violation between Pad TPS1_TPS6-24(3223.189mil,2719.225mil)  Top Layer and 
+                     Pad TPS1_TPS6-23(3223.189mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-23(3223.189mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-23(3223.189mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-23(3223.189mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-23(3223.189mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-23(3223.189mil,2699.535mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-24(3223.189mil,2719.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-24(3223.189mil,2719.225mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-24(3223.189mil,2719.225mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3176.433mil,2670mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3176.433mil,2701mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3145.433mil,2701mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3176.433mil,2639mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3145.433mil,2639mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3114.433mil,2670mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3114.433mil,2701mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3114.433mil,2639mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad U4_oringA-2(2043mil,4537.598mil)  Top Layer and 
+                     Pad U4_oringA-1(2043mil,4575mil)  Top Layer
+   Violation between Pad U4_oringA-3(2043mil,4500.197mil)  Top Layer and 
+                     Pad U4_oringA-2(2043mil,4537.598mil)  Top Layer
+Rule Violations :271
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Track (2148.402mil,3546.082mil)(2148.402mil,3781.278mil)  Top Layer and 
+                     Pad U4_oringB-5(2148.402mil,3818.68mil)  Top Layer
+   Violation between Track (2149.331mil,2840mil)(2149.331mil,3075.197mil)  Top Layer and 
+                     Pad U4_oringC-5(2149.331mil,3112.598mil)  Top Layer
+   Violation between Pad TPS1_TPS5-24(4582.756mil,2684.225mil)  Top Layer and 
+                     Pad TPS1_TPS5-1(4554.213mil,2712.756mil)  Top Layer
+   Violation between Pad TPS1_TPS5-3(4514.842mil,2712.756mil)  Top Layer and 
+                     Pad TPS1_TPS5-2(4534.528mil,2712.756mil)  Top Layer
+   Violation between Pad TPS1_TPS5-7(4427.244mil,2684.225mil)  Top Layer and 
+                     Pad TPS1_TPS5-6(4455.787mil,2712.756mil)  Top Layer
+   Violation between Pad TPS1_TPS5-13(4455.787mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-12(4427.244mil,2585.775mil)  Top Layer
+   Violation between Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Track (4534.528mil,2373.662mil)(4534.528mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-16(4514.842mil,2557.244mil)  Top Layer
+   Violation between Track (4554.213mil,2530.787mil)(4554.213mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer
+   Violation between Pad TPS1_TPS5-18(4554.213mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-17(4534.528mil,2557.244mil)  Top Layer
+   Violation between Pad TPS1_TPS5-19(4582.756mil,2585.775mil)  Top Layer and 
+                     Pad TPS1_TPS5-18(4554.213mil,2557.244mil)  Top Layer
+   Violation between Track (4534.528mil,2373.662mil)(4534.528mil,2557.244mil)  Top Layer and 
+                     Pad TPS1_TPS5-18(4554.213mil,2557.244mil)  Top Layer
+   Violation between Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer and 
+                     Pad TPS1_TPS5-19(4582.756mil,2585.775mil)  Top Layer
+   Violation between Track (4582.756mil,2605.465mil)(4636.669mil,2605.465mil)  Top Layer and 
+                     Pad TPS1_TPS5-19(4582.756mil,2585.775mil)  Top Layer
+   Violation between Pad TPS1_TPS5-21(4582.756mil,2625.155mil)  Top Layer and 
+                     Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer
+   Violation between Track (4582.756mil,2585.775mil)(4611.359mil,2585.775mil)  Top Layer and 
+                     Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer
+   Violation between Track (4582.756mil,2625.155mil)(4744.412mil,2625.155mil)  Top Layer and 
+                     Pad TPS1_TPS5-20(4582.756mil,2605.465mil)  Top Layer
+   Violation between Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer and 
+                     Pad TPS1_TPS5-21(4582.756mil,2625.155mil)  Top Layer
+   Violation between Track (4582.756mil,2605.465mil)(4636.669mil,2605.465mil)  Top Layer and 
+                     Pad TPS1_TPS5-21(4582.756mil,2625.155mil)  Top Layer
+   Violation between Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer and 
+                     Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer
+   Violation between Track (4582.756mil,2625.155mil)(4744.412mil,2625.155mil)  Top Layer and 
+                     Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer
+   Violation between Track (4582.756mil,2664.535mil)(4690.401mil,2664.535mil)  Top Layer and 
+                     Pad TPS1_TPS5-22(4582.756mil,2644.845mil)  Top Layer
+   Violation between Pad TPS1_TPS5-24(4582.756mil,2684.225mil)  Top Layer and 
+                     Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer
+   Violation between Track (4582.756mil,2684.225mil)(4634.225mil,2684.225mil)  Top Layer and 
+                     Pad TPS1_TPS5-23(4582.756mil,2664.535mil)  Top Layer
+   Violation between Track (4582.756mil,2664.535mil)(4690.401mil,2664.535mil)  Top Layer and 
+                     Pad TPS1_TPS5-24(4582.756mil,2684.225mil)  Top Layer
+   Violation between Pad TPS1_TPS6-24(3223.189mil,2719.225mil)  Top Layer and 
+                     Pad TPS1_TPS6-1(3194.646mil,2747.756mil)  Top Layer
+   Violation between Pad TPS1_TPS6-3(3155.276mil,2747.756mil)  Top Layer and 
+                     Pad TPS1_TPS6-2(3174.961mil,2747.756mil)  Top Layer
+   Violation between Pad TPS1_TPS6-7(3067.677mil,2719.225mil)  Top Layer and 
+                     Pad TPS1_TPS6-6(3096.22mil,2747.756mil)  Top Layer
+   Violation between Pad TPS1_TPS6-13(3096.22mil,2592.244mil)  Top Layer and 
+                     Pad TPS1_TPS6-12(3067.677mil,2620.775mil)  Top Layer
+   Violation between Pad TPS1_TPS6-17(3174.961mil,2592.244mil)  Top Layer and 
+                     Pad TPS1_TPS6-16(3155.276mil,2592.244mil)  Top Layer
+   Violation between Pad TPS1_TPS6-18(3194.646mil,2592.244mil)  Top Layer and 
+                     Pad TPS1_TPS6-17(3174.961mil,2592.244mil)  Top Layer
+   Violation between Pad TPS1_TPS6-19(3223.189mil,2620.775mil)  Top Layer and 
+                     Pad TPS1_TPS6-18(3194.646mil,2592.244mil)  Top Layer
+   Violation between Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer and 
+                     Pad TPS1_TPS6-19(3223.189mil,2620.775mil)  Top Layer
+   Violation between Track (3223.189mil,2620.775mil)(3248.792mil,2620.775mil)  Top Layer and 
+                     Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer
+   Violation between Pad TPS1_TPS6-21(3223.189mil,2660.155mil)  Top Layer and 
+                     Pad TPS1_TPS6-20(3223.189mil,2640.465mil)  Top Layer
+   Violation between Pad TPS1_TPS6-22(3223.189mil,2679.845mil)  Top Layer and 
+                     Pad TPS1_TPS6-21(3223.189mil,2660.155mil)  Top Layer
+   Violation between Pad TPS1_TPS6-23(3223.189mil,2699.535mil)  Top Layer and 
+                     Pad TPS1_TPS6-22(3223.189mil,2679.845mil)  Top Layer
+   Violation between Pad TPS1_TPS6-24(3223.189mil,2719.225mil)  Top Layer and 
+                     Pad TPS1_TPS6-23(3223.189mil,2699.535mil)  Top Layer
+   Violation between Track (3135.59mil,2747.756mil)(3135.59mil,2838.976mil)  Top Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringA-8(2339mil,4620.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringA-7(2389mil,4620.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringA-6(2439mil,4620.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringA-5(2489mil,4620.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringC-8(2353.331mil,3195.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringC-7(2403.331mil,3195.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringC-6(2453.331mil,3195.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringC-5(2503.331mil,3195.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringD-8(2351mil,2519.197mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringD-7(2401mil,2519.197mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringD-6(2451mil,2519.197mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringD-5(2501mil,2519.197mil)  Top Layer
+Rule Violations :51
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad TPS1_TPS5-V(4536mil,2604mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4505mil,2604mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4536mil,2666mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4505mil,2666mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4536mil,2635mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4505mil,2635mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4474mil,2604mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4474mil,2666mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS5-V(4474mil,2635mil)  Multi-Layer and 
+                     Pad TPS1_TPS5-25(4505mil,2635mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3176.433mil,2670mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3145.433mil,2670mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3176.433mil,2701mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3145.433mil,2701mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3176.433mil,2639mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3145.433mil,2639mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3114.433mil,2670mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3114.433mil,2701mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Pad TPS1_TPS6-V(3114.433mil,2639mil)  Multi-Layer and 
+                     Pad TPS1_TPS6-25(3145.433mil,2670mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringA-8(2339mil,4620.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringA-7(2389mil,4620.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringA-6(2439mil,4620.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringA-5(2489mil,4620.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringC-8(2353.331mil,3195.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringC-7(2403.331mil,3195.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringC-6(2453.331mil,3195.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringC-5(2503.331mil,3195.278mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringD-8(2351mil,2519.197mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringD-7(2401mil,2519.197mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringD-6(2451mil,2519.197mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Layer and 
+                     Pad U3_oringD-5(2501mil,2519.197mil)  Top Layer
+Rule Violations :30
+
+Processing Rule : Room oringA (Bounding Region = (1481.598mil, 4035mil, 2745mil, 4733.918mil) (InComponentClass('oringA'))
+Rule Violations :0
+
+Processing Rule : Room oringB (Bounding Region = (1495mil, 3316.082mil, 2758.402mil, 4015mil) (InComponentClass('oringB'))
+Rule Violations :0
+
+Processing Rule : Room oringC (Bounding Region = (1495.929mil, 2610mil, 2759.331mil, 3308.918mil) (InComponentClass('oringC'))
+Rule Violations :0
+
+Processing Rule : Room oringD (Bounding Region = (1493.598mil, 1933.918mil, 2757mil, 2632.837mil) (InComponentClass('oringD'))
+Rule Violations :0
+
+Processing Rule : Room TPS6 (Bounding Region = (2790.433mil, 2264.567mil, 4070.433mil, 2934.567mil) (InComponentClass('TPS6'))
+Rule Violations :0
+
+Processing Rule : Room power (Bounding Region = (2794.528mil, 2971mil, 5324.528mil, 4860mil) (InComponentClass('power'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=12mil) (Max=16mil) (Preferred=15mil) (InNet('12VREG'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=30mil) (Max=30mil) (Preferred=30mil) (InNet('3.3V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=40mil) (Max=40mil) (Preferred=40mil) (InNet('5V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=40mil) (Max=40mil) (Preferred=40mil) (InNet('6V'))
+Rule Violations :0
+
+
+Violations Detected : 500
+Time Elapsed        : 00:00:00
