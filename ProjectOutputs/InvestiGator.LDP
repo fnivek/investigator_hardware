@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Kevin French\Documents\School Work\Design2\repos\investigator_hardware\InvestiGator.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=investigator-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=investigator-slotholes.txt|DrillLayers=gtl,gbl

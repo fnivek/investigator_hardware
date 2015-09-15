@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [InvestiGator.PrjPCB]
+   Generated File[InvestiGator-RoundHoles.TXT]
+   Generated File[InvestiGator-SlotHoles.TXT]
+   Generated File[InvestiGator.LDP]
+   Generated File[InvestiGator.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:22:36 PM On 9/15/2015

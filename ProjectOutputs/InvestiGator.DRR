@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: InvestiGator.PcbDoc   9/15/2015  6:22:36 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : InvestiGator-RoundHoles.TXT
+ASCII SlotHoles File : InvestiGator-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          18               3.06 Inch (77.74 mm)
+T2        28mil (0.7112mm)         Round          6                4.01 Inch (101.83 mm)
+T3        30mil (0.762mm)          Round          3                0.42 Inch (10.76 mm)
+T4        33.46mil (0.84988mm)     Round          10               4.12 Inch (104.71 mm)
+T5        34mil (0.8636mm)         Round          8                0.90 Inch (22.86 mm)
+T6        35.43mil (0.89992mm)     Round          11               7.66 Inch (194.55 mm)
+T7        40mil (1.016mm)          Slot           2                2.33 Inch (59.25 mm)
+T8        50mil (1.27mm)           Round          4                0.38 Inch (9.65 mm)
+T9        64mil (1.6256mm)         Round          16               8.83 Inch (224.32 mm)
+T10       129mil (3.2766mm)        Round          6                11.88 Inch (301.82 mm)
+---------------------------------------------------------------------------
+Totals                                            84               43.60 Inch (1107.49 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
