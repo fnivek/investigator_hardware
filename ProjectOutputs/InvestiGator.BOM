@@ -1,0 +1,43 @@
+Bill of Material for 
+On 9/24/2015 at 2:08:30 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 14 Gauge WIre       WireHeader       8    WireHeader1, WireHeader2                          
+                                           WireHeader3, WireHeader4
+                                           WireHeader5_oringA
+                                           WireHeader5_oringB
+                                           WireHeader5_oringC
+                                           WireHeader5_oringD
+ Cap Pol3            C0805            5    1, C1, C2, C3, C4            Polarized Capacitor (Surface Mount) 
+ Cap                 C0805           20    C5_oringA, C5_oringB         Capacitor            
+                                           C5_oringC, C5_oringD, C6_TPS5
+                                           C6_TPS6, C7_TPS5, C7_TPS6
+                                           C8_TPS5, C8_TPS6, Cbst1_TPS5
+                                           Cbst1_TPS6, CIN1_TPS5
+                                           CIN1_TPS6, Cout1_TPS5
+                                           Cout1_TPS6, Cx1_TPS5
+                                           Cx1_TPS6, Cy1_TPS5, Cy1_TPS6
+ CSD17522Q5A_DQJ_    DQJ8             4    U3_oringA, U3_oringB         Imported             
+                                           U3_oringC, U3_oringD
+ D Schottky          AXIAL-0.3        5    D4, D5_oringA, D5_oringB     Schottky Diode       
+                                           D5_oringC, D5_oringD
+ Fuse 2              PIN-W2/E2.8      5    F1, F2_oringA, F2_oringB     Fuse                 
+                                           F2_oringC, F2_oringD
+ Inductor            6-0805_L         3    L1, L2_TPS5, L2_TPS6         Inductor             
+ LED0                LED-0            2    D2, D3                       Typical INFRARED GaAs LED 
+ LM1084_KTT_3        TS3B             1    U1                           Imported             
+ LM5050-2_DDC_6      MK06A            4    U4_oringA, U4_oringB         Imported             
+                                           U4_oringC, U4_oringD
+ LMR61428            D8               1    KinectReg1                                        
+ LT1632CN8           P8               1    U5                           45MHz, 45V/µs, Dual Rail-to-Rail Input and Output Precision Operational Amplifier 
+ Res3                6-0805_M        20    2, R2, R3, R4, R5, R6, R7, R8 Resistor             
+                                           R9, R10_TPS5, R10_TPS6
+                                           R11_TPS5, R11_TPS6, R12_TPS5
+                                           R12_TPS6, R13_TPS5, R13_TPS6
+                                           R14, RT1_TPS5, RT1_TPS6
+ RPot                RPot             1    R1                           Potentiometer        
+ Socket              PIN1             1    J1                           Socket               
+ SW-SPST             switch           1    S1                           Single-Pole, Single-Throw Switch 
+ TLV3401_P_8         P8               1    U2                           Imported             
+ TPS53313            RGE24_2P45X2P45    2    *_TPS5, *_TPS6                                    
